@@ -1,0 +1,34 @@
+---
+title: "Quarto Exercise "
+author: "Andrew Laitha"
+format: html
+editor: visual
+table-of-contents: true
+---
+
+The document is all of myself
+
+## A task that gives me job
+
+-   Making graphs and writing research note
+
+## A task I find challenging
+
+-   Data managment and anlaysis
+
+## One with a fact I want to learn
+
+-   I find difficult to organise data and ouputs
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).

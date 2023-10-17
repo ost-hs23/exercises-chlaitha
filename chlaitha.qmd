@@ -2,6 +2,7 @@
 title: "Hello, Penguins!"
 format: html
 editor: visual
+author: Andrew
 ---
 
 ## Data
@@ -16,6 +17,9 @@ library(tidyverse)
 library(ggthemes)
 library(palmerpenguins)
 library(gt)
+
+penguins
+
 ```
 
 ## Species
