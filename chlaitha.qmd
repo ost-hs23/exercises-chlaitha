@@ -1,8 +1,11 @@
 ---
 title: "Hello, Penguins!"
-format: html
+format:
+ html: 
+  toc: true
+  code-fold: true
 editor: visual
-author: Andrew
+author: Andrew Laitha
 ---
 
 ## Data

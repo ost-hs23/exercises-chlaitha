@@ -1,5 +1,8 @@
 ---
+title: "Hello"
+table-of-contents: true
 format: html
+author: Andrew Laitha
 editor: source
 ---
 
@@ -8,5 +11,8 @@ editor: source
 2.  Add two major sections with level two headers. Add a subsection to one of your major sections.
 
 3.  Add an image link to a web image you have chosen.
+4. ! [Shymbulak's Inaugural Snowfall: Embracing the Majestic Mountains in Winter] (https://images.unsplash.com/photo-1697450300645-faf3676bb7b5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80).
 
 4.  Use any markdown syntax that you can recall from the slides or refresh your memory from <https://quarto.org/docs/authoring/markdown-basics.html>.
+
+
