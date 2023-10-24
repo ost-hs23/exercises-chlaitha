@@ -1,0 +1,32 @@
+---
+title: "Andrew Laitha"
+about:
+  template: broadside
+  image: chlaitha.png
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/chlaitha
+    - icon: LinkedIn
+      text: LinkedIn
+      href: https://www.linkedin.com/in/andrewlaitha/
+---
+
+Andrew Laitha is a doctoral studnet in Food Systems Economics and Policy Group at ETH Zurich. He is an agricultural economics. His research interest lies in the intersection of the agricultural sector, rural transformation, and sustainable development with a focus on labor.
+
+##Education
+
+Swiss Federal Institure of Technology, Zurich | Zurich, Switzerland
+PhD in Agricultural Economics | May 2022 - present
+
+Czech Univesity of Life Sciences Prague | Prague, Czechia
+M.Sc in International Development | Sept 2016 - June 2018
+
+## Experience
+
+International Food Policy Research Institute (IFPRI) | Research Aanlayst | Sept 2021 - May 2022
+
+International Labor Organisation (ILO) | Consultant | Oct 2020 - Aug 2021
+
+
+

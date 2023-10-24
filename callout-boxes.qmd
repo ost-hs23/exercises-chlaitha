@@ -2,7 +2,7 @@
 title: "Callout boxes"
 cap-location: top
 table-of-contents: true
-format: html
+format: pdf
 author: Andrew Laitha
 editor: visual
 ---
